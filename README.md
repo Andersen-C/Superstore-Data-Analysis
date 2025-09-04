@@ -9,10 +9,10 @@ The analysis focuses on detecting patterns in product categories and subcategori
 
 ## Key Questions Answered: 
 The following are the key questions that are answered in the project.
-1. Which 5 Cities Have the Highest Total Sales? 
-  a. What Are the Top 5 Sub-Categories Purchased Most in the Top 10 Cities by Total Sales? 
-  b. What Are the Most Common Ship Modes in the Top 10 Cities by Total Sales? 
-  c. Which Customer Segment Dominates in the Top 10 Cities by Total Sales? 
+1. Which 5 Cities Have the Highest Total Sales? <br>
+  a. What Are the Top 5 Sub-Categories Purchased Most in the Top 10 Cities by Total Sales? <br>
+  b. What Are the Most Common Ship Modes in the Top 10 Cities by Total Sales? <br>
+  c. Which Customer Segment Dominates in the Top 10 Cities by Total Sales? <br>
 2. How Has Sales Growth Evolved by Category From 2015-2018?
 3. How Has Sales Growth Evolved by Sub-Category From 2015-2018?
 4. Has the Sales Distribution Across Segments Changed From 2015-2018?
